@@ -1,6 +1,6 @@
 # usedidle
 该小程序包含二手商品展示、转让、求购、生活服务、聊天、留言、邻里帮助、商家入驻 等多个功能模块，满足社区二手闲置交流 等各种需求
-需要源码的小伙伴可加 13121822558(微信) 联系
+需要源码的小伙伴可加 15837164825(微信) 联系
 
 ![1](https://user-images.githubusercontent.com/125850273/236593010-cd686ec2-d072-413b-b008-2156dba63a2a.jpg)
 ![2](https://user-images.githubusercontent.com/125850273/236593016-1b9b0f01-81fb-4dc4-a914-99ab8b829356.jpg)
